@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Adrian/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_alarm.xml" value="0.33" />
+        <entry key="..\:/Users/Adrian/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_main.xml" value="0.307518115942029" />
+        <entry key="..\:/Users/Adrian/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/fragment_alarm.xml" value="0.22" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.359" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/drawable/bg_calendar.xml" value="0.23" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/drawable/ic_alarm.xml" value="0.23" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/drawable/ic_calendar.xml" value="0.23" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/drawable/ic_news.xml" value="0.23" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/drawable/ic_weather.xml" value="0.23" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/activity_alarm.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/activity_calendar.xml" value="0.2767210144927536" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/activity_calendarvieweventlist.xml" value="0.2572463768115942" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/calendar_docentry.xml" value="0.33" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/fragment_alarm.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/fragment_calendar.xml" value="0.33" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/fragment_news.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/fragment_weather.xml" value="0.22" />
+        <entry key="..\:/Users/Francis Dator/Desktop/finalproject-group-1-1/app/src/main/res/layout/news_card_post.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2485" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/layout/activity_alarms.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/layout/activity_calendar.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/layout/activity_main.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/layout/activity_news.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/layout/activity_weather.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/layout/fragment_news.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/dever/AndroidStudioProjects/finalproject-group-1-1/app/src/main/res/layout/news_card_post.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/drawable/bg_calendar.xml" value="0.2935" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_alarm.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_alarms.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_calendar.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_main.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_news.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/activity_weather.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/fragment_alarm.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/fragment_calendar.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/fragment_news.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/layout/fragment_weather.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/emara/Documents/GitHub/finalproject-group-1-1/app/src/main/res/menu/menu.xml" value="0.32760416666666664" />
+        <entry key="app/src/main/res/layout/activity_calendarvieweventlist.xml" value="0.12917933130699089" />
+        <entry key="app/src/main/res/layout/fragment_alarm.xml" value="0.12917933130699089" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.12917933130699089" />
+        <entry key="app/src/main/res/layout/fragment_weather.xml" value="0.3336837258382409" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
